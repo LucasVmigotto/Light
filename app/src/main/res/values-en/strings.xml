@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Light</string>
+    <string name="nota">Put here your note</string>
+    <string name="salvar_nota">Save note</string>
+    <string name="validate">Empity field</string>
+    <string name="erro_salvar">Error saving the note</string>
+    <string name="sucesso_salvar">Success saving the note</string>
+    <string name="teste">Test</string>
+    <string name="excluir">Delete</string>
+    <string name="editar">Edit</string>
+    <string name="context_menu_options">Options&#8230;</string>
+    <string name="sucesso_delete">Success deleting the note</string>
+    <string name="error_delete">Error deleting the note</string>
+    <string name="title_delete_light">Delete note</string>
+    <string name="message_delete_light">Do you really want to delete this note?</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="titulo">Password</string>
+    <string name="validar">Validate</string>
+</resources>

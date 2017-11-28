@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Light</string>
+    <string name="nota">Insira a sua nota</string>
+    <string name="salvar_nota">Salvar nota</string>
+    <string name="validate">Campo não preenchido</string>
+    <string name="erro_salvar">Erro ao salvar</string>
+    <string name="sucesso_salvar">Sucesso ao salvar</string>
+    <string name="teste">Teste</string>
+    <string name="excluir">Excluir</string>
+    <string name="editar">Editar</string>
+    <string name="context_menu_options">Opções&#8230;</string>
+    <string name="sucesso_delete">Sucesso ao deletar</string>
+    <string name="error_delete">Erro ao deletar</string>
+    <string name="title_delete_light">Deletar nota</string>
+    <string name="message_delete_light">Deseja realmente deletar essa nota?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="titulo">Senha</string>
+    <string name="validar">Validar</string>
+</resources>
